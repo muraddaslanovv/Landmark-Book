@@ -34,9 +34,9 @@ public class MainActivity extends AppCompatActivity {
 
         landList = new ArrayList<Landmark>();
 
-Landmark eiffel = new Landmark("Eiffel","France", R.drawable.eiffel);
-Landmark pisa = new Landmark("Pisa","Italy",R.drawable.pisa);
-Landmark maiden = new Landmark("Maiden","Azerbaijan",R.drawable.maiden);
+        Landmark eiffel = new Landmark("Eiffel","France", R.drawable.eiffel);
+        Landmark pisa = new Landmark("Pisa","Italy",R.drawable.pisa);
+        Landmark maiden = new Landmark("Maiden","Azerbaijan",R.drawable.maiden);
 
 
         landList.add(eiffel);
